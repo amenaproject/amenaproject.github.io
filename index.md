@@ -24,6 +24,11 @@ Currently, we have built three primary functions of AMENA. In the future, we are
 
 According to our knowledge, most of the machine learning systems in Indonesia (especially for analyzing text in the political domain) still use old-fashion approaches such as n-gram, lexicon-based technique, or traditional classification such as Naive Bayes, SVM, or regression. AMENA is different as it implements the state of the art of NLP for Bahasa Indonesia. Please refer to the recent [NLP lecture from Stanford](https://nlp.stanford.edu/~johnhew/public/14-seq2seq.pdf) to get some understanding about sequence-to-sequence model. In the future, we will enhance this architecture with pre-trained-network-models such as BERT (from Google) and GPT (from Open AI).
 
+Currently, this is our neural architecture for classifying sentiment. Please keep mind that we do it in two stages, as we involve neutral vs non-neutral, and postive vs negative prediction.
+
+
+<img src="images/arch.jpg?raw=true"/>
+
 ---
 
 ### What has AMENA been used for?
