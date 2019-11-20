@@ -35,6 +35,6 @@ Currently, this is our neural architecture for classifying sentiment. Please kee
 
 AMENA has collaborated with [NextPolicy](https://nextpolicy.org/) on these following projects:
 
-1. Analisis Pelantikan Menteri Jokowi (August-September 2019)
+1. Analisis Pelantikan Menteri Jokowi (September-November 2019)
 2. Analisis 100 hari kepresidenan Jokowi (ongoing project, December 2019 on wards)
 
