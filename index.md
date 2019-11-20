@@ -27,7 +27,7 @@ According to our knowledge, most of the machine learning systems in Indonesia (e
 Currently, this is our neural architecture for classifying sentiment. Please keep mind that we do it in two stages, as we involve neutral vs non-neutral, and postive vs negative prediction.
 
 
-<img src="images/arch.png?raw=true"/>
+<img src="images/arch.jpg?raw=true"/>
 
 ---
 
