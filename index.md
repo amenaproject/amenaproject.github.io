@@ -28,6 +28,8 @@ According to our knowledge, most of the machine learning systems in Indonesia (e
 
 ### What has AMENA been used for?
 
-1. Analisis Pelantikan Menteri Jokowi (collaborated with NextPolicy)
-2. Analisis 100 hari kepresidenan Jokowi (ongoing project)
+AMENA has collaborated with [NextPolicy](https://nextpolicy.org/) with these following projects
+
+1. Analisis Pelantikan Menteri Jokowi (August-September 2019)
+2. Analisis 100 hari kepresidenan Jokowi (ongoing project, December 2019 on wards)
 
